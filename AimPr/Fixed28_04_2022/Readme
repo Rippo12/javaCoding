@@ -1,0 +1,4 @@
+Add CompactDisc class
+Change/Add relative methods of order class
+Now addDigitalVideoDisc can add a Array
+Prevent overflow with addDigitalVideoDisc and addCompactDisc
